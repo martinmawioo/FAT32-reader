@@ -1,0 +1,37 @@
+Infomation about disk /dev/sdb
+Partition table: [MBR]
+---------------
+Partition entry 1
+First sector:      2048
+Last sector:       6543359
+Number of sector:  6541312
+Size:              3194 MB
+Partition type:    0x0b - FAT32
+-------------------
+Partition entry 2
+First sector:      6543360
+Last sector:       16412671
+Number of sector:  9869312
+Size:              4819 MB
+Partition type:    0x07 - IFS/HPFS/NTFS/exFAT
+---------------
+Partition entry 3
+First sector:      16412672
+Last sector:       30851071
+Number of sector:  14438400
+Size:              7050 MB
+Partition type:    0x05 - Extended partiton of MBR
+---------------
+Partition entry 1 of Extended partition
+First sector:      2048
+Last sector:       10629119
+Number of sector:  10627072
+Size:              5189 MB
+Partition type:    0x07 - IFS/HPFS/NTFS/exFAT
+---------------
+Partition entry 2 of Extended partition
+First sector:      10629120
+Last sector:       14301183
+Number of sector:  3672064
+Size:              1793 MB
+Partition type:    0x05 - Unknown

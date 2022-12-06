@@ -1,0 +1,69 @@
+Infomation about disk /dev/sda
+Partition table: [GPT]
+Signature:                 EFI PART
+Header size:               92 bytes
+GUID:                      bc06d1e1907585914ab700161133b9d3
+Partition Entry Array at:  0x00000400
+Size of a partition entry: 128 bytes
+
+List of partition entry:
+------------------
+Entry 1
+Partition type:  ACD67901D5BF6AA14D4006D1DE94BBA4
+GUID:            5B8B3852C3EA1A8D45DC112BE27A96CB
+First sector:    2048
+Last sector:     923647
+Size:            450MB
+Label:           B a s i c   d a t a   p a r t i t i o n                                 
+Format:          NTFS
+Partition attributes: platform required, 
+------------------
+Entry 2
+Partition type:  3BC93EC9A0004BBA11D2F81FC12A7328
+GUID:            28F20017CDED70954DDC19E44555D8BA
+First sector:    923648
+Last sector:     1128447
+Size:            100MB
+Label:           E F I   s y s t e m   p a r t i t i o n                                 
+Format:          FAT32
+Partition attributes: 
+------------------
+Entry 3
+Partition type:  AE1502F02DF97D814DB80B5CE3C9E316
+GUID:            E0027DB4940421954812B147DD183DD0
+First sector:    1128448
+Last sector:     1161215
+Size:            16MB
+Label:           M i c r o s o f t   r e s e r v e d   p a r t i t i o n                 
+Format:          Unknown
+Partition attributes: 
+------------------
+Entry 4
+Partition type:  C79926B7B668C0874433B9E5EBD0A0A2
+GUID:            A3C8751C4344B4984838636E118A049A
+First sector:    1161216
+Last sector:     84346879
+Size:            40618MB
+Label:           B a s i c   d a t a   p a r t i t i o n                                 
+Format:          NTFS
+Partition attributes: 
+------------------
+Entry 5
+Partition type:  E47D47D8693D798E477284830FC63DAF
+GUID:            D8A8804984042A9C47444AEC3B1B4DF8
+First sector:    84346880
+Last sector:     239681535
+Size:            75847MB
+Label:                                                                                   
+Format:          Unknown
+Partition attributes: 
+------------------
+Entry 6
+Partition type:  4F4F4BC83309E58443C4A4AB0657FD6D
+GUID:            FA99D0EF3DE3CBB1497F7E8E1DFC9495
+First sector:    239681536
+Last sector:     250068991
+Size:            5072MB
+Label:                                                                                   
+Format:          Unknown
+Partition attributes: 
